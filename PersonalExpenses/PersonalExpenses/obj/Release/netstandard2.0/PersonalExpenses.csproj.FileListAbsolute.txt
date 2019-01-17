@@ -1,0 +1,16 @@
+C:\Users\cruiz1\Documents\Proyectos\PersonalExpenses\PersonalExpenses\PersonalExpenses\bin\Release\netstandard2.0\PersonalExpenses.deps.json
+C:\Users\cruiz1\Documents\Proyectos\PersonalExpenses\PersonalExpenses\PersonalExpenses\bin\Release\netstandard2.0\PersonalExpenses.dll
+C:\Users\cruiz1\Documents\Proyectos\PersonalExpenses\PersonalExpenses\PersonalExpenses\bin\Release\netstandard2.0\PersonalExpenses.pdb
+C:\Users\cruiz1\Documents\Proyectos\PersonalExpenses\PersonalExpenses\PersonalExpenses\obj\Release\netstandard2.0\PersonalExpenses.csprojAssemblyReference.cache
+C:\Users\cruiz1\Documents\Proyectos\PersonalExpenses\PersonalExpenses\PersonalExpenses\obj\Release\netstandard2.0\App.xaml.g.cs
+C:\Users\cruiz1\Documents\Proyectos\PersonalExpenses\PersonalExpenses\PersonalExpenses\obj\Release\netstandard2.0\View\CategoriesPage.xaml.g.cs
+C:\Users\cruiz1\Documents\Proyectos\PersonalExpenses\PersonalExpenses\PersonalExpenses\obj\Release\netstandard2.0\View\ExpenseDetailsPage.xaml.g.cs
+C:\Users\cruiz1\Documents\Proyectos\PersonalExpenses\PersonalExpenses\PersonalExpenses\obj\Release\netstandard2.0\View\ExpensesPage.xaml.g.cs
+C:\Users\cruiz1\Documents\Proyectos\PersonalExpenses\PersonalExpenses\PersonalExpenses\obj\Release\netstandard2.0\View\MainPage.xaml.g.cs
+C:\Users\cruiz1\Documents\Proyectos\PersonalExpenses\PersonalExpenses\PersonalExpenses\obj\Release\netstandard2.0\View\NewExpensePage.xaml.g.cs
+C:\Users\cruiz1\Documents\Proyectos\PersonalExpenses\PersonalExpenses\PersonalExpenses\obj\Release\netstandard2.0\PersonalExpenses.csproj.CoreCompileInputs.cache
+C:\Users\cruiz1\Documents\Proyectos\PersonalExpenses\PersonalExpenses\PersonalExpenses\obj\Release\netstandard2.0\PersonalExpenses.AssemblyInfoInputs.cache
+C:\Users\cruiz1\Documents\Proyectos\PersonalExpenses\PersonalExpenses\PersonalExpenses\obj\Release\netstandard2.0\PersonalExpenses.AssemblyInfo.cs
+C:\Users\cruiz1\Documents\Proyectos\PersonalExpenses\PersonalExpenses\PersonalExpenses\obj\Release\netstandard2.0\XamlC.stamp
+C:\Users\cruiz1\Documents\Proyectos\PersonalExpenses\PersonalExpenses\PersonalExpenses\obj\Release\netstandard2.0\PersonalExpenses.dll
+C:\Users\cruiz1\Documents\Proyectos\PersonalExpenses\PersonalExpenses\PersonalExpenses\obj\Release\netstandard2.0\PersonalExpenses.pdb

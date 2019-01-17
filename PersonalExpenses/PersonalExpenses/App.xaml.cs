@@ -31,6 +31,7 @@ namespace PersonalExpenses
 		{
 			InitializeComponent();
 
+            string test = "commit test";
 			AppResources.Culture = new System.Globalization.CultureInfo("");
 
 			MainPage = new NavigationPage(new MainPage());
